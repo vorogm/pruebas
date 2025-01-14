@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-master
-user 1 hace un cambio y sube a master 
 hago otro cambio........
 fewfefef
 efeferf
 cambios desde linux.
 otrooooooo
-=======
-develope
->>>>>>> b320a57badca90b4be16d55c2c9a69b3e64ada40
+
